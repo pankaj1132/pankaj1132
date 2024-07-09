@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pankaj17469@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Pankaj/Desktop/pankaj___resume.pdf](file:///C:/Users/Pankaj/Desktop/pankaj___resume.pdf)
+- 📄 Know about my experiences https://drive.google.com/file/d/1f26FXsn-v_0o2suLh5kDWY4Fan1H8xCl/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
